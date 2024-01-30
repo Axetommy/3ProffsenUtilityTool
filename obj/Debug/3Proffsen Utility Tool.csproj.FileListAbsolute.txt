@@ -1,0 +1,11 @@
+C:\Users\milon\source\repos\3Proffsen Utility Tool\3Proffsen Utility Tool\bin\Debug\3Proffsen Utility Tool.exe.config
+C:\Users\milon\source\repos\3Proffsen Utility Tool\3Proffsen Utility Tool\bin\Debug\3Proffsen Utility Tool.exe
+C:\Users\milon\source\repos\3Proffsen Utility Tool\3Proffsen Utility Tool\bin\Debug\3Proffsen Utility Tool.pdb
+C:\Users\milon\source\repos\3Proffsen Utility Tool\3Proffsen Utility Tool\obj\Debug\3Proffsen Utility Tool.csproj.AssemblyReference.cache
+C:\Users\milon\source\repos\3Proffsen Utility Tool\3Proffsen Utility Tool\obj\Debug\3Proffsen Utility Tool.csproj.SuggestedBindingRedirects.cache
+C:\Users\milon\source\repos\3Proffsen Utility Tool\3Proffsen Utility Tool\obj\Debug\_3Proffsen_Utility_Tool.checkBoxBotten.resources
+C:\Users\milon\source\repos\3Proffsen Utility Tool\3Proffsen Utility Tool\obj\Debug\_3Proffsen_Utility_Tool.Properties.Resources.resources
+C:\Users\milon\source\repos\3Proffsen Utility Tool\3Proffsen Utility Tool\obj\Debug\3Proffsen Utility Tool.csproj.GenerateResource.cache
+C:\Users\milon\source\repos\3Proffsen Utility Tool\3Proffsen Utility Tool\obj\Debug\3Proffsen Utility Tool.csproj.CoreCompileInputs.cache
+C:\Users\milon\source\repos\3Proffsen Utility Tool\3Proffsen Utility Tool\obj\Debug\3Proffsen Utility Tool.exe
+C:\Users\milon\source\repos\3Proffsen Utility Tool\3Proffsen Utility Tool\obj\Debug\3Proffsen Utility Tool.pdb
